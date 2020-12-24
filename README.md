@@ -41,8 +41,9 @@ Examples are available at:
 
 Include the following Javascript in the head of the page containing your AFrame scene:
 
-`https://rawgit.com/rdub80/aframe-gui/master/dist/aframe-gui.min.js
-`
+https://cdn.jsdelivr.net/gh/rdub80/aframe-gui@master/dist/aframe-gui.min.js
+
+
 ## Building
 
 Run the following to build to the examples/js folder:
