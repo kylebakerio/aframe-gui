@@ -36,6 +36,7 @@ Examples are available at:
 
 [https://rdub80.github.io/aframe-gui/examples/index.html](https://rdub80.github.io/aframe-gui/examples/index.html)
  
+Or, to get a glitch you can remix yourself, [go here](https://glitch.com/edit/#!/boatneck-better-silence?path=server.js%3A21%3A0).
 
 ## Use in your AFrame project
 
